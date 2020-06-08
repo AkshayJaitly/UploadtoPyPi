@@ -19,12 +19,10 @@ If you don't have python already installed, I would suggest you to install the A
 
 Links for uploaded packages:
 
-https://pypi.org
-Links for uploaded packages:
-
 https://pypi.org/project/akki-distributions/
+
 https://test.pypi.org/project/akki-distributions/0.1/#description/project/akki-distributions/
-https://test.pypi.org/project/akki-distributions/0.1/#description
+
 Acknowledgements
 
 Thanks to Udacity.
